@@ -7,7 +7,7 @@ repository = "https://github.com/Garve/mamimo"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.7"
 scikit-learn = "^1.0.2"
 numpy = "^1.22.3"
 pandas = "^1.4.2"
